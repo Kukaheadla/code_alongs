@@ -1,0 +1,41 @@
+/* element select */
+
+body {
+  /* rules */
+  font-family: 'PT Sans Narrow', sans-serif;
+  background-color: mistyrose;
+}
+
+h2 {
+  background-color: tomato;
+  color:linen;
+}
+
+/*id selector*/
+#main-heading {
+  text-align: center;
+}
+
+/*class selector*/
+.desire {
+  font-size: 20px;
+}
+
+.warning {
+  color: lime;
+}
+
+em.desire {
+  font-size: 30px;
+}
+/*paragraph within descending selector*/
+
+/*paragraphs within article*/
+/*article p {
+  background-color: peru;
+}*/
+
+/*direct child*/
+article > p {
+  background-color: pink;
+}

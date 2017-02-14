@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+div {
+  margin: 10px;
+  padding: 2px;
+  border: 1px solid red;
+}
+
+div {
+  background-color: pink;
+  width: 100px;
+  display: inline-block;
+}
+
+.info {
+  bos-sizing: border-box;
+  color: blue;
+  height: 120px;
+}
+
+#special {
+
+}
